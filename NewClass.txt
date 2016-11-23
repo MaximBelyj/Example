@@ -1,1 +1,1 @@
-public void calculator(){}
+public void calculator(int a, int b){}
