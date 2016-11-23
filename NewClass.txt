@@ -1,1 +1,6 @@
-public void calculator(int a, int b){}
+public void calculator(int a, int b){
+	public char op(){
+		return '+' || '-' || '/' || '*'
+	}
+}
+
